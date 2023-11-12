@@ -1,1 +1,1 @@
-theme: Courses-theme-slate
+theme: Courses-theme-minima
