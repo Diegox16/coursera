@@ -1,6 +1,1 @@
-# coursera
-gem "minima"
-theme: minima
-
-$ bundle
-coursera test 
+theme: Courses-theme-slate
